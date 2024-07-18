@@ -1,0 +1,6 @@
+teacher:
+  password_hash: "pbkdf2:sha256:260000$HEpPDqDm0nYHv6oG$d7c53e69f9b1168fab28ebc7afc2987b65d87faabd2eb8d04b4aa7393209a972"
+firebase:
+  databaseURL: 'https://enduring-stage-369514-default-rtdb.firebaseio.com'
+  storageBucket: "enduring-stage-369514.appspot.com"
+  pathToServiceAccount: "configs/serviceAccountKey.json"
